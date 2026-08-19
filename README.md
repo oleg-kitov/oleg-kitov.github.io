@@ -1,2 +1,2 @@
-# olegkitov.github.io
+# oleg-kitov.github.io
 Oleg Kitov personal webpage
